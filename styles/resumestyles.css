@@ -28,7 +28,7 @@ section {
 
 body {
     /*Background image and body style*/
-    background: url('/p4/media/background.jpg') center center fixed;
+    background: url('../media/background.jpg') center center fixed;
     background-size: cover;
     max-width: 900px;
     font-family: Georgia, Helvetica, sans-serif;
