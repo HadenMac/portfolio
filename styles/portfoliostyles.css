@@ -19,7 +19,7 @@ header {
 /* Top Banner */
 
 .banner {
-    background: url("/main/images/smallbird.JPEG") center / cover no-repeat;
+    background: url("/portfolio/images/smallbird.JPEG") center / cover no-repeat;
     background-size: cover;
     text-align: left;
     color: white;
